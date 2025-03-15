@@ -10,6 +10,7 @@ The IIT Indore Study Hub Platform is a centralized learning space designed to he
 🌐 Project Info
 🔗 Live URL: [Study Hub Platform](https://studyhubiiti.netlify.app/)
 🔗 GitHub Repository: [study-bridge-hub-main](https://github.com/VedantJadhav701/study-bridge-hub-main)
+
 🔗 Demo video: (https://drive.google.com/file/d/1J_DlMqkjKQTEgl33-Up9uDH-BNSsX8Bs/view?usp=drive_link).
 🛠 How Can I Modify This Code?
 You have multiple ways to edit and contribute to this project.
